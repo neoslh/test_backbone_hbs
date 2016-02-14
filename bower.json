@@ -1,0 +1,21 @@
+{
+  "name": "exo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "neo"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/neoslh/test_backbone_hbs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
